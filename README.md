@@ -14,3 +14,10 @@
 
 #### Data can be found at : [Data](https://bit.ly/3kXTdox)
 
+
+## **Task 2 : Exploratory Data Analysis - Retail**
+
+### Problem statement : As a business manager, try to find out the weak areas where you canwork to make more profit.
+
+#### Data can be found at : [Data](https://bit.ly/3i4rbWl)
+
