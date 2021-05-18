@@ -15,9 +15,17 @@
 #### Data can be found at : [Data](https://bit.ly/3kXTdox)
 
 
-## **Task 2 : Exploratory Data Analysis - Retail**
+## **Task 3 : Exploratory Data Analysis - Retail**
 
 ### Problem statement : As a business manager, try to find out the weak areas where you canwork to make more profit.
 
 #### Data can be found at : [Data](https://bit.ly/3i4rbWl)
+
+
+## **Task 4 : Exploratory Data Analysis - Terrorism**
+
+### Problem statement : As a security/defense analyst, try to find out the hot zone of terrorism.
+
+#### Data can be found at : [Data](https://bit.ly/2TK5Xn5)
+
 
